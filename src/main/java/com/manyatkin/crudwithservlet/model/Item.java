@@ -1,4 +1,4 @@
-package com.manyatkin.crudwithservlet.Model;
+package com.manyatkin.crudwithservlet.model;
 
 public class Item {
     private String vendorCode;

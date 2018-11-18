@@ -1,6 +1,6 @@
 package com.manyatkin.crudwithservlet.controller;
 
-import com.manyatkin.crudwithservlet.Model.MyDataBase;
+import com.manyatkin.crudwithservlet.model.MyDataBase;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

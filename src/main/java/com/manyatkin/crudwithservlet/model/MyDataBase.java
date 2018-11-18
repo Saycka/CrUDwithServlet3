@@ -1,4 +1,4 @@
-package com.manyatkin.crudwithservlet.Model;
+package com.manyatkin.crudwithservlet.model;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-<%@ page import="com.manyatkin.crudwithservlet.Model.Item" %>
+<%@ page import="com.manyatkin.crudwithservlet.model.Item" %>
 <%@ page import="java.util.ArrayList" %><
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%--<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>--%>
